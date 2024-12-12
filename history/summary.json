@@ -22,18 +22,20 @@
     "url": "https://scp-jp.wikidot.com",
     "icon": "https://icons.duckduckgo.com/ip3/scp-jp.wikidot.com.ico",
     "slug": "scp-jp-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 297,
-    "timeDay": 205,
-    "timeWeek": 322,
-    "timeMonth": 297,
-    "timeYear": 297,
-    "dailyMinutesDown": {}
+    "time": 1058,
+    "timeDay": 8629,
+    "timeWeek": 2413,
+    "timeMonth": 1058,
+    "timeYear": 1058,
+    "dailyMinutesDown": {
+      "2024-12-12": 0
+    }
   },
   {
     "name": "Limbus Company Login",
@@ -52,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-12": 77,
+      "2024-12-12": 297,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
